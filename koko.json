@@ -1,0 +1,27 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.0",
+//link for server update
+"Url":"https://github.com/nds999/protect-link/raw/main/OVPN.zip" ,
+"Changelog":"
+Latest update 25/11/2020
+TRUE No Pro
+DTAC No Pro
+Edit the TRUE file.
+Edit DTAC files
+Add function to page load
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
