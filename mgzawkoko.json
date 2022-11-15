@@ -1,0 +1,33 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.8",
+//link for server update
+"Url":"https://github.com/zaw1212/zaw1212/raw/main/OVPN.zip" ,
+"Changelog":"
+Latest update 15/11/2022
+Update အတြက္ လမ္းျပေပး
+ခဲ့တဲ့ အကို T.A.K အား
+ေက်းဇူးအထူးတင္ပါသည္
+အသုံးျပဳရႏိုင္ေသာ SIMမ်ား👇👇👇
+
+
+TRUE No Pro
+DTAC No Pro
+Edit the TRUE file.
+Edit DTAC files
+Add function to page load
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
